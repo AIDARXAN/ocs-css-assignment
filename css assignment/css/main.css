@@ -1,0 +1,29 @@
+h1{
+    font-size: 45px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+img{
+    height: 200px;
+    width: 300px;
+    image-orientation: "center";
+}
+
+section{
+    font-size: 20px;
+    background-color: grey;
+}
+header{
+    background-color: darkgray;
+}
+h2{
+    text-transform: uppercase;
+    font-size: 38px;
+    color: darkblue;
+}
+a{
+    background-color: #c0c3c6;
+    color: black;
+    font-size: 20px;
+}
